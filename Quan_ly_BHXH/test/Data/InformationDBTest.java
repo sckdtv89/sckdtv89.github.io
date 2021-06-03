@@ -55,17 +55,7 @@ public class InformationDBTest {
         assertEquals(expResult, result);
     }
 
-    @Test
-    public void testCountFee2() throws Exception {
-        System.out.println("CountFee2");
-        String t = "5-2021";
-        int status = 1;
-        String province = "Nam Định";
-        InformationDB instance = new InformationDB();
-        int expResult = 43000000;
-        long result = instance.CountFee(t, status, province);
-        assertEquals(expResult, result);
-    }
+    
     @Test
     public void testMain() {
         System.out.println("main");

@@ -53,7 +53,7 @@
                 <tbody>
                     <tr>
                         <td>Tổng thu trong tháng </td>
-                        <td>100000</td>
+                        <td>1000000</td>
                     </tr>
                     <tr>
                         <td>Chưa thu được trong tháng</td>

@@ -64,7 +64,7 @@ public class MemberDB {
         try {
             String time3 = "1-2021";
             String time1 = "2021-01___";
-            String province = "Nam Định";
+            String province = "Hà Nội";
             //
             int newMember, allMember, outMember;
             MemberDB memberDB = new MemberDB();
